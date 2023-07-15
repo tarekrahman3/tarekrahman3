@@ -5,7 +5,7 @@
 <img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 <img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" style="vertical-align:down; margin:4px"/>	
 </p>
-<!--Projects I have done with Google Workspace APIs and Google Apps Scripts:
+<!-- Projects I have done with Google Workspace APIs and Google Apps Scripts:
 https://github.com/tarekrahman3/Google-Sheets-Filter-Script
 https://github.com/tarekrahman3/google_sheets_scripts
 https://github.com/tarekrahman3/Employee-Information-Enrich-AppsScript
